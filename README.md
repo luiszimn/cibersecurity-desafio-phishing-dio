@@ -20,4 +20,4 @@
 ### Resutados
 
 - Após criada a página clone do facebook foram capturadas com sucesso as 
-credênciais de acesso do usuário como mostra o arquivo ![Alt text](./credentials.png)
+credênciais de acesso do usuário como mostra a imagem ![Alt text](./credentials.png)
